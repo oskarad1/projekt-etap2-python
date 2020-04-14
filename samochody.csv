@@ -1,0 +1,13 @@
+numer_samochodu,marka,model,skrzynia,rocznik,pojemnosc,przebieg
+1,volkswagen,golf,manual,1999,1400,250000
+2,kia,rio,manual,2009,1500,150000
+3,dacia,duster,automat,2005,2000,250000
+4,renault,clio,manual,2000,1000,300000
+5,opel,astra,manual,2008,1500,175000
+6,opel,corsa,manual,1999,1000,340000
+7,renault,clio,automat,2017,1500,50000
+8,opel,zafira,manual,2003,1600,280000
+9,bmw,x6,automat,2013,2500,125000
+10,honda,civic,automat,2011,2000,200000
+11,opel,corsa,automat,2018,2000,50000
+12,volkswagen,golf,manual,2009,1000,100000
